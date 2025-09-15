@@ -1,0 +1,14 @@
+.dark-toggle {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    color: var(--text-color);
+    font-size: 1.4rem;
+    transition: color 0.3s ease;
+    margin-left: 10px;
+  }
+  
+  .dark-toggle:hover {
+    color: #5690ff;
+  }
+  
